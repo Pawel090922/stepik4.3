@@ -26,4 +26,5 @@ jobs:
     - name: Run python application
       run: |
         python down.py
+      run: |
         python down2.py
